@@ -1,0 +1,22 @@
+[
+  {
+    "dateKey": "1478369570950",
+    "task": "ToDo1",
+    "checked": false
+  },
+  {
+    "dateKey": "1478369570951",
+    "task": "ToDo2",
+    "checked": false
+  },
+  {
+    "dateKey": "1478369570952",
+    "task": "ToDo3",
+    "checked": true
+  },
+  {
+    "dateKey": "1478369570953",
+    "task": "ToDo4",
+    "checked": false
+  }
+]
